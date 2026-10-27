@@ -45,14 +45,15 @@ Building projects • Solving problems • Learning every day
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsmeshoaib230&theme=tokyonight&hide_border=true" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshoaib230&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </div>
-
 ---
 
 ## 📈 Contribution Activity
