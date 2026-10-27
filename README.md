@@ -45,15 +45,14 @@ Building projects • Solving problems • Learning every day
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshoaib230&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+
+<img src="https://streak-stats.demolab.com?user=itsmeshoaib230&theme=tokyonight&hide_border=true" />
+
 </div>
+
 ---
 
 ## 📈 Contribution Activity
@@ -69,9 +68,11 @@ Building projects • Solving problems • Learning every day
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsmeshoaib230&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=itsmeshoaib230&theme=tokyonight&no-frame=true&margin-w=10"
+    width="100%"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
