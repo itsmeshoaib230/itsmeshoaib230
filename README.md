@@ -55,26 +55,6 @@ Building projects • Solving problems • Learning every day
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshoaib230&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsmeshoaib230&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
